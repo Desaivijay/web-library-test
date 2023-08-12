@@ -1,0 +1,12 @@
+G:\class\advance android\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+G:\class\advance android\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+G:\class\advance android\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+G:\class\advance android\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
